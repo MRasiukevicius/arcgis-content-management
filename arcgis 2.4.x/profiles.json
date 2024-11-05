@@ -1,0 +1,17 @@
+{
+	"esoapp_unetwork": {
+		"url": "https://source.portal.com/portal",
+		"username": "user",
+		"password": "pass"
+	},
+	"esoapp2_unetwork": {
+		"url": "https://target.portal.com/portal",
+		"username": "user",
+		"password": "pass"
+	},
+	"geodispv9_padmin": {
+		"url": "https://source2.portal.com/portal",
+		"username": "user",
+		"password": "pass"
+	}
+}
